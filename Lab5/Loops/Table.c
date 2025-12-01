@@ -4,7 +4,7 @@ int main() {
     int num;
 
     // Validate number input
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     while (scanf("%d", &num) != 1) {
         printf(" Invalid input! Please enter an integer: ");
         scanf("%*s");  // discard wrong input
