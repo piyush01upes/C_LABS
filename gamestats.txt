@@ -1,0 +1,4 @@
+Player: ayush | Mode: Advanced | Rounds: 1 | Wins: 1 | Losses: 0
+Moves (Player vs Computer):
+ayush 1 1 0
+-----
